@@ -3,6 +3,8 @@
 ## SAVE DIRECTORY/LOCATION
 When opening certain versions of the mod in the launcher, it may state that the save files of this mod are in the default save location and therefore may corrupt vanilla AM2R save data - this is not true as Belash Extinction's save files are stored in a folder called "belash", a subfolder inside the folder where the vanilla AM2R saves are stored.
 
+
+
 Custom campaign mod for AM2R.
 Belash Extinction is a challenge mod with a custom map solely about bossfights and combat, as well as introducing new mechanics and ways to approach bosses, as well as bring to life some interesting concepts thought of by other modders and Metroid fans.
 
